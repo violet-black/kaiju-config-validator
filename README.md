@@ -9,7 +9,7 @@
 project configuration dictionary for a set of application service classes. It analyzes `__init__` methods of services
 to check the input data before creating an app object.
 
-[fastjsonschema](https://github.com/horejsek/python-fastjsonschema) library is used to validate JSONSchema files.
+[fastjsonschema](https://github.com/horejsek/python-fastjsonschema) library is used for validation.
 
 # Installation
 
